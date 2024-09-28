@@ -27,6 +27,8 @@ UseHugoToc = true
 hugo new posts/000-POST-NAME.md
 ```
 
+## Start project
+
 ```sh
 hugo server
 ```
